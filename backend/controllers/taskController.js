@@ -1,4 +1,4 @@
-const Task = require('../models/Task');     //aded for another commit
+const Task = require('../models/Task');     //aded for another one commit
 
 const getTasks = async (
 req,
